@@ -784,7 +784,7 @@ NPC_DraynorManor_OddenstienLog_Text_6:
 	.string "Log 6: These are some weird-looking\n"
 	.string "hybrid chickens.\p"
 	.string "I think I will name them Ernest Chickens\n"
-	.string "after thier father.$"
+	.string "after their father.$"
 
 NPC_DraynorManor_OddenstienLog_Text_7:
 	.string "Log 7: I wonder what will happen if I\n"
